@@ -16,7 +16,7 @@ session_start();
 
     <!-- Titles
     ================================================== -->
-    <title>Bule Hora City Online House Rental System</title>
+    <title>Dighi House rental System</title>
 
     <!-- Favicons
     ================================================== -->

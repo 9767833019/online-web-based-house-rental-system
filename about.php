@@ -59,18 +59,18 @@
                     <div class="image-content gradient-circle">
                         <div>
                             <span>
-                                <img  src="" alt="lelisa and Gutama" />
+                                <img   alt="Yogesh Pawar" />
                             </span>
                         </div>
                     </div><!-- /.image-content -->
                     <div class="author-content">
                         <div class="author-content-area">                        
-                            <h2 class="author-name default-text-gradient">Lelisa Shashura and Gutama Nageso</h2> 
+                            <h2 class="author-name default-text-gradient">Yogesh Pawar</h2> 
                             <p class="author-designation">Rent House Admin</p>
                         </div><!-- /.author-content-area -->
                     </div><!-- /.author-content -->
                     <p>
-Gutama and Lelisa are among the students at Bule Hora University. This students are in their fourth year of software engineering and are happy to be able to do this project. This platform was built by this student to make life easier and more comfortable for people in need of homes. It was built with the intent to help people around the globe. </p>
+Yogesh pawar. This students are in their fourth Semester of software engineering and are happy to be able to do this project. This platform was built by this student to make life easier and more comfortable for people in need of homes. It was built with the intent to help people around the globe. </p>
            
 
                 </div><!-- /.col-md-7 -->

@@ -11,7 +11,7 @@ require("mail.php");
 		$numberofrows=mysqli_num_rows($selectquery);
 		if($numberofrows>0){
 			while($row=mysqli_fetch_array($selectquery)){*/
-			$recipient="shlelisa123@gmail.com";
+			$recipient="yogeshpawar1512001@gmail.com";
 			$subject="121212";
 			$message="password forget";
 		    send_mail($recipient,$subject,$message);

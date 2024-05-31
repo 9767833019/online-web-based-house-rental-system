@@ -42,19 +42,7 @@
 			 $runquery=mysqli_query($conn,$query);
 			 if($runquery){
 				 
-		  #  $subject = "Email Verification Code";
-          #  $message = "Your verification code is $code";
-           # $sender = "From: oromobiblestudy@yahoo.com";
-            #if(mail($email, $subject, $message, $sender)){
-             #   $info = "We've sent a verification code to your email - $email";
-              #  $_SESSION['info'] = $info;
-               # $_SESSION['email'] = $email;
-                #$_SESSION['password'] = $password;
-                #header('location: userVerification.php');
-                #exit();
-            #}else{
-             #   $message = "Failed while sending code!";
-            #}   
+		  
 			header("location:login.php");
 		 }else{
 				 $message="not register ".mysqli_error();

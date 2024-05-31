@@ -46,20 +46,15 @@ and shall take all reasonable steps to protect the Tenant from damage.</br>
  Additionally, the landlord is in charge of giving access to all amenities, including parking, common areas, </br>
  garbage and recycling bins, and laundry facilities.</br>
  Additionally, the landlord is obligated to keep the property up to code with regard to environmental, health, and safety issues.</p>
- <h5>what is the terms and conditions of the tenant and landlord in ethiopia?</h5>
- <p>When signing a lease agreement, both tenants and landlords in Ethiopia must accede to a number of terms and conditions.</br>
- The property must be delivered by the lessor in a usable condition that is free of defects, in accordance with Ethiopian regulations. </br>
+ <h5>what is the terms and conditions of the tenant and landlord in India?</h5>
+ <p>When signing a lease agreement, both tenants and landlords in India must accede to a number of terms and conditions.</br>
+ The property must be delivered by the lessor in a usable condition that is free of defects, in accordance with Indian regulations. </br>
  The lease's tenure may be set for a specific amount of time or it may be indefinite [1]. </br>
  The following elements are taken into account: possession of status, marital contract, shared property, couples' income and debt,</br>
  divorce, and divorce by mutual agreement [2].</br>
- According to Ethiopian regulations, both buyers/tenants and landlords/owners must follow by the policy and procedure </br>
+ According to Indian regulations, both buyers/tenants and landlords/owners must follow by the policy and procedure </br>
  that applies to both parties [3].</br>
-<br><b> References:</b><br>
-[1] <a href="https://ethiopianlaw.weebly.com/blog/lease-of-housestenancy-under-ethiopian-law">Lease of Houses/Tenancy under Ethiopian law</a>
-<br>
-[2] <a href="https://www.lawethiopia.com/index.php/component/tags/tag/rent">rent - Law Ethiopia</a>
-<br>
-[3] <a href="https://www.realethio.com/policy-and-procedure/">Policy & Procedure - Real Ethio</a></p>
+</br>
 
 <a href="agreementHouseRental.docx" download>Download</a>
 									

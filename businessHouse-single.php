@@ -232,7 +232,7 @@ while($row=mysqli_fetch_array($query))
     						<h3>Price Details-</h3>
     						<ul>
     							<li><span>Rent/<?php echo $row['rentingMethod'];?> : </span> <?php echo $row['rent']; ?></li>
-    							<li><span>Security Deposit :</span> <?php echo $row['start_date']; ?> to <?php echo $row['end_date']; ?></li>
+    							<li><span>Avaliable Date  :</span> <?php echo $row['start_date']; ?> to <?php echo $row['end_date']; ?></li>
     							<li><span>Flat Release Policy :</span> 3 months earlier notice required</li>
     						</ul>
     					</div><!-- /.price -->
@@ -277,7 +277,7 @@ while($row=mysqli_fetch_array($query))
         									</div><!-- /.form-group -->
         									<div class="form-group">
                             					<label>Phone Number</label>
-                                                <input type="tel" name="phonenumber" pattern="[+2519][0-9]{12}" required placeholder="+2519" autocomplete="off"><br>
+                                                <input type="tel" name="phonenumber" pattern="[+91][0-9]{12}" required placeholder="+91" autocomplete="off"><br>
 											  
         									</div><!-- /.form-group -->
         									<div class="form-group">

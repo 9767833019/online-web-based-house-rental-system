@@ -47,7 +47,8 @@ $errors = array();
             if($run_query){
                 $subject = "Email Verification Code";
                 $message = "Your Email Verification code is $code";
-                $sender = "From: oromobiblestudy@yahoo.com";
+                $sender = "From: yogeshpawar1512001@gmail.com";
+                mail($email, $subject, $message, $sender);
                 if(mail($email, $subject, $message, $sender)){
                     $info = "We've sent a Email Verification code to your email - $email";
                     $_SESSION['info'] = $info;
@@ -76,7 +77,7 @@ $errors = array();
             if($run_query){
                 $subject = "Password Reset Code";
                 $message = "Your password reset code is $code";
-                $sender = "From: oromobiblestudy@yahoo.com";
+                $sender = "From: yogeshpawar1512001@gmail.com";
                 if(mail($email, $subject, $message, $sender)){
                     $info = "We've sent a passwrod reset otp to your email - $email";
                     $_SESSION['info'] = $info;

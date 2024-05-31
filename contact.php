@@ -28,7 +28,9 @@
                        <p>Find out how to find us from your current location</p>
                     </div><!-- /.about-heading-content -->
                     <div class="map-content">
-                        <iframe height="550" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1200.7317828357247!2d38.21982607405132!3d5.632119723309902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x17ba4dbbcedb1f83%3A0xc1ff8b7f26684ebb!2sBHU%20ICT!5e1!3m2!1sen!2set!4v1672057995808!5m2!1sen!2set" allowfullscreen="allowfullscreen"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d688.0145215645904!2d73.8743313!3d18.618940200000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c708dc005eaf%3A0x1ab54f67e88af211!2sSamarth%20Nagar%2C%20Dighi%2C%20Pimpri-Chinchwad%2C%20Maharashtra%20411015!5e1!3m2!1sen!2sin!4v1713689939195!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    
+
+                        <!-- <iframe height="550" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1200.7317828357247!2d38.21982607405132!3d5.632119723309902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x17ba4dbbcedb1f83%3A0xc1ff8b7f26684ebb!2sBHU%20ICT!5e1!3m2!1sen!2set!4v1672057995808!5m2!1sen!2set" allowfullscreen="allowfullscreen"></iframe> -->
                     </div><!-- /.map-content -->
                 </div><!-- /.col-md-12 -->
             </div><!-- /.row -->
@@ -50,19 +52,19 @@
                     <div class="contact-us-content-left">
                         <div class="contact">
                             <h4><i class="fa fa-map-marker"></i>Address</h4>
-                            <p>Bule Hora University<br> Software Engineering 4th Year</p>
+                            <p>Dr. D.Y. Patil School of MCA<br> Semester 4 project </p>
                         </div><!-- /.contact -->
                     
                         <div class="contact">
-                            <h4><i class="fa fa-envelope"></i>Mall</h4>
-                           <a href="mailto:shlelisa123@gmail.com"> <p>shlelisa123@gmail.com</a>
-                           <a href="mailto:gutamanagesso@gmail.com">gutamanagesso@gmail.com</p></a>
+                            <h4><i class="fa fa-envelope"></i>Mail</h4>
+                           <a href="mailto:yogeshpawar1512001@gmail.com"> <p>yogeshpawar1512001@gmail.com</a>
+                           <a href="mailto:ypawar8668@gmail.com">ypawar8668@gmail.com</p></a>
                         </div><!-- /.contact -->
                 
                     
                         <div class="contact">
                             <h4><i class="fa fa-volume-control-phone"></i>Call</h4>
-                            <p><a href="tel:+251900000000000">+251900000000000</a><br> <a href="tel:+251900000000000">+251900000000000</a></p>
+                            <p><a href="tel:+919767833019">+919767833019</a><br> <a href="tel:+919075788687">+919075788687</a></p>
                         </div><!-- /.contact -->
                     
                         <div class="contact">

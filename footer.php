@@ -42,7 +42,7 @@ you can be free from the hassle of finding a rental property by using our servic
                         </div><!-- /.widget-title-area -->
                         <div >
 						
-                             <a style="font-size:20px" href="mailto:shlelisa123@gmail.com"><i class="fa fa-envelope" style="font-size:24px"></i>&nbsp E-mail</a><br><br>
+                             <a style="font-size:20px" href="mailto:yogeshpawar1512001@gmail.com"><i class="fa fa-envelope" style="font-size:24px"></i>&nbsp E-mail</a><br><br>
                              <a style="font-size:20px" href="https:/t.me/lelisa123"><i class="fa fa-telegram"></i>&nbsp Telegram</a><br><br>
                              <a style="font-size:20px" href="https:/www.facebook.com/lelisa shashura"><i class="fa fa-facebook"></i>&nbsp Facebook</a><br><br>
                          
@@ -52,7 +52,7 @@ you can be free from the hassle of finding a rental property by using our servic
                 </div><!-- /.col-md-4 -->
                 <div class="col-md-12">
                     <div class="bottom-content">
-                        <p>Copyright  &copy;2023 <a href="about.php">Bule Hora University, Software Engineering 4th Year Students Lelisa and Gutama</a></p>
+                        <p>Copyright  &copy;2023 <a href="about.php">>Dr. D.Y.Patil School of MCA, Sem IV Project</a></p>
                     </div><!-- /.bottom-top-content -->
                 </div><!-- /.col-md-12 -->
             </div><!-- /.row -->
