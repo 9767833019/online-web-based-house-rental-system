@@ -281,7 +281,7 @@
                             <div class="col-md-6 col-sm-6">
                                 <div class="contact">
                                     <h4><i class="fa fa-envelope"></i>Mail</h4>
-                                    <a href="mailto:yogeshpawar1512001@gmail"><p>yogeshpawar1512001@gmail.com</p></a>
+                                    <a href="mailto:yogeshpawar1512001@gmail.com"><p>yogeshpawar1512001@gmail.com</p></a>
                                 </div>
                             </div>
                         </div> 
